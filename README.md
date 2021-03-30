@@ -2,7 +2,7 @@
 
 ###### tags: `Básico` `Intermediário`
 
-> Olá, PyLady! Seja bem-vinda ao ebook de **Introdução a Python** organizado por muitas mentes e mãos do PyLadies Brasil :heart:
+> Olá, PyLady! Seja bem-vinda ao repositório do grupo de estudo "Introdução a Python", aqui você encontrará todos os materiais produzidos para incentivar o aprendizado de Python (ebook, slides, série de vídeos e exercícios). Isso tudo foi organizado por muitas mentes e mãos do PyLadies Brasil :heart:
 
 :rocket:
 
@@ -21,3 +21,8 @@
 | Book Mode       | [:link:][book-mode]     |
 | Slide Mode      | [:link:][slide-mode]    |
 | Share & Publish | [:link:][share-publish] |
+
+# Build 
+npm run build
+# Start to server
+npm run serve
