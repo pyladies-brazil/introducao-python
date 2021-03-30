@@ -1,9 +1,17 @@
-# Summary
+# Sumário
 
-- [Introduction](README.md)
+- [Apresentação](README.md)
 
-- [1.Por quê aprender Python?](1.Porque.md/porque.md)
-- [2.PEP](2.PEP.md/pep.md)
+## Capítulo 1
+
+- [Mulher inspiradora: Katie Bourman](mulheres-inspiradoras/katie-bourman.md)
+- [Por quê aprender Python?](porque-aprender-python/porque-aprender-python.md)
+- [PEP](pep/pep.md)
+- [Variáveis](variaveis/variaveis.md)
+- [Tipos básicos de dados](tipos-de-dados/tipos_dados.md)
+- [Operadores aritméticos e relacionais](operadores-aritmeticos-e-relacionais/operadores-aritmeticos-e-relacionais.md)
+
+## Capítulo 2
 - [3.Variáveis](3.Variáveis/variaveis.md)
 - [4.Tipos de Dados](tipos_dados.md/README.md)
 - [5.Operadores](5.Operadores/operadores.md)
