@@ -25,7 +25,7 @@ Neste caso, a PyLady deve copiar o conteúdo do slide e trazudir para md, isto �
 
 ### 3º Encontre o material que você quer transcrever
 
-As pastas já contêm o arquivo md, neste caso, o que é precisamos é que insiras o conteúdo. Após testes no HACKMD e/ou Honkit, use os seguintes comandos para subir as suas alterações para o repositório remoto das PyLadies Brasil.
+As pastas já contêm o arquivo md, neste caso, o que é precisamos é que insiras o conteúdo. Após testes no HACKMD e/ou Honkit, use os seguintes comandos para subir as suas alterações para o repositório remoto das PyLadies Brasil dentro da branch feature/honkit.
 
 ```
 git add .
