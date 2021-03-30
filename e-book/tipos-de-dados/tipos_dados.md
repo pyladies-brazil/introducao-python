@@ -1,4 +1,4 @@
-# Tipos Básicos de Dados em Python
+# Tipos básicos de dados
 
 |Tipo de dado |Descrição
 |--|--
