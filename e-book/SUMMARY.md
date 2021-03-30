@@ -1,10 +1,12 @@
 # Sumário
 
 - [Apresentação](README.md)
+  
+<!-- Capítulo 1-->
 
 ## Capítulo 1
 
-- [Mulher inspiradora: Katie Bourman](mulheres-inspiradoras/katie-bourman.md)
+- [Mulher inspiradora: Nina da Hora](mulheres-inspiradoras/katie-bourman.md)
 - [Por quê aprender Python?](porque-aprender-python/porque-aprender-python.md)
 - [PEP](pep/pep.md)
 - [Variáveis](variaveis/variaveis.md)
@@ -20,13 +22,18 @@
 - [Comentário](comentarios/comentario.md)
 - [Docstring](docstring/docstring.md)
 
+<!-- Capítulo 2-->
+
 ## Capítulo 2
 
-- [17.Strings](17.Strings/strings.md)
+- [Mulher inspiradora: Katie Bourman](mulheres-inspiradoras/katie-bourman.md)
+- [Strings](strings/strings.md)
 
-<!-- Outro bloco integrado-->
+<!-- Capítulo 3-->
 
-- [18.Split](18.Split/split.md)
+## Capítulo 3
+
+- [Mulher inspiradora: Carol Shaw](mulheres-inspiradoras/carol-shaw.md)
 
 <!-- Outro bloco integrado-->
 
