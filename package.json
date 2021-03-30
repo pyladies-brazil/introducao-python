@@ -1,0 +1,28 @@
+{
+  "name": "introducao-python",
+  "version": "1.0.0",
+  "description": "Este e-book foi desenvolvido como material complementar para o grupo de estudo `Introdução a Python`, que tem como público alvo mulheres que sabem programar em outra linguagem. No conteúdo é possível encontrar assuntos relacionados a sintaxe da linguagem de programação Python, bem como histórias de mulheres inspiradoras.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "honkit build",
+    "serve": "honkit serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pyladies-brazil/introducao-python.git"
+  },
+  "keywords": ["Python", "Sintaxe"],
+  "author": "PyLadies Brasil",
+  "license": {
+    "type": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.pt_BR"
+  },
+  "bugs": {
+    "url": "https://github.com/pyladies-brazil/introducao-python/issues"
+  },
+  "homepage": "https://github.com/pyladies-brazil/introducao-python#readme",
+  "devDependencies": {
+    "honkit": "^3.6.19"
+  }
+}
