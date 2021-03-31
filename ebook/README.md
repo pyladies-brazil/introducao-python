@@ -2,13 +2,11 @@
 
 ###### tags: `Básico` `Intermediário`
 
-> Olá, PyLady! Seja bem-vinda ao repositório do grupo de estudo "Introdução a Python", aqui você encontrará todos os materiais produzidos para incentivar o aprendizado de Python (ebook, slides, série de vídeos e exercícios). Isso tudo foi organizado por muitas mentes e mãos do PyLadies Brasil :heart:
+> Olá, PyLady! Seja bem-vinda ao e-book com grupo de estudo "Introdução a Python: para mulheres que sabem programar". Isso tudo foi organizado por muitas mentes e mãos do PyLadies Brasil :heart:
 
 :rocket:
 
-:::info
-:bulb: **Dica:** Dúvidas podem ser enviadas ao nosso canal no Slack: **https://www.slackin.pyladies.com**
-:::
+
 
 ---
 

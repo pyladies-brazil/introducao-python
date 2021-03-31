@@ -1,6 +1,6 @@
 # Entrada
 
-Python considera todas as entradas como texto, cada linha digitada como um único conteúdo contínuo. Para declarar uma entrada, deve-se usar o comando:
+Python considera **todas as entradas como texto, cada linha digitada como um único conteúdo contínuo**. Para declarar uma entrada, deve-se usar o comando:
 
 ```
 input("Texto opcional que será exibido ao usuário")
@@ -8,13 +8,13 @@ input("Texto opcional que será exibido ao usuário")
 
 ## Conversão de tipo de dados
 
-|Tipo | Comando de conversão
-|--|--
-|Booleano (bool) | bool (variavel)
-|Inteiro (int) | int (variavel)
-|Real (float) | float (variavel)
-|Texto (str) | str (variavel)
-|Números complexos (complex) | complex (variavel)
+| Tipo                        | Comando de conversão |
+| --------------------------- | -------------------- |
+| Booleano (bool)             | bool (variavel)      |
+| Inteiro (int)               | int (variavel)       |
+| Real (float)                | float (variavel)     |
+| Texto (str)                 | str (variavel)       |
+| Números complexos (complex) | complex (variavel)   |
 
 Suponha que você digite numa mesma linha seu nome, sua idade e grupo PyLadies de origem, Python reconhecerá tudo como uma mesma entrada de texto, sem divisões. Caso você deseje um tipo diferente, será necessário converter explicitamente. Exemplo de utilização:
 

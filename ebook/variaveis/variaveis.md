@@ -4,14 +4,15 @@ De forma simplificada, variável é um nome que associamos a um valor ou express
 
 **Sintaxe:** 
 ```
+nome_da_variavel = conteudo
 doce = 'brigadeiro'
 ```
 
 **Convenções para nomenclatura:**
 
-- usar algarismos, letras ou _
-- nunca começar com um algarismo
-- não usar palavras reservadas do Python, como if, while, etc.
+- usar **algarismos, letras ou \_**
+- **nunca** começar com um algarismo
+- **não usar palavras reservadas** do Python, como if, while, etc.
   
 ## Declaração e atribuição
 

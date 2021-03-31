@@ -30,6 +30,7 @@ class PyLadies:
        return f"PyLadies {self.nome_capitulo}\n{self.num_integrantes} integrantes:\n" + "\n".join(self.integrantes)
 
    def adicionar_integrante(self, nome):
+   '''Esta função adiciona novas integrantes a PyLadies. Modifica lista de participantes e número total de integrantes''' # Isto é uma docstring
        self.num_integrantes += 1
        self.integrantes.append(nome)
 ```

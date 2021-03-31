@@ -30,50 +30,51 @@
 - [Strings](strings/strings.md)
 - [Operadores lógicos](operadores_logicos/operadores_logicos.md)
 - [Estruturas lógicas e condicionais](estruturas_logicas_e_condicionais/estruturas_logicas_e_condicionais.md)
-- [Range](range/range.md)
 
 <!-- Capítulo 3 -->
 
 ## Capítulo 3
 
 - [Mulher inspiradora: Fernanda Wanderley](mulheres_inspiradoras/fernanda_wanderley.md)
+- [Range](range/range.md)
 - Estrutura de repetição (laços e loops)
   - [While](estrutura_de_repeticao/while.md)
   - [For](estrutura_de_repeticao/for.md)
-- Break e Continue
-  - [Break](break_e_continue/break.md)
-  - [Continue](break_e_continue/continue.md)
+
 
 <!-- Capítulo 4 -->
 
 ## Capítulo 4
 
 - [Mulher inspiradora: Carol Shaw](mulheres_inspiradoras/carol_shaw.md)
-- [Listas](listas/listas.md)
-- [Map](map/map.md)
-- [Enumerate](enumerate/enumerate.md)
-- [Zip](zip/zip.md)
+- Break e Continue
+  - [Break](break_e_continue/break.md)
+  - [Continue](break_e_continue/continue.md) 
 
 <!-- Capítulo 5 -->
 
 ## Capítulo 5
 
 - [Mulher inspiradora: Liane Tarouco](mulheres_inspiradoras/liane_tarouco.md)
-- [Tuplas](tuplas/tuplas.md)
-- [Dicionários](dicionarios/dicionarios.md)
+- [Listas](listas/listas.md)
+- [Map](map/map.md)
+- [Enumerate](enumerate/enumerate.md)
+- [Zip](zip/zip.md)
 
 <!-- Capítulo 6 -->
 
 ## Capítulo 6
 
 - [Mulher inspiradora: Radia Perlman](mulheres_inspiradoras/radia_perlman.md)
+- [Tuplas](tuplas/tuplas.md)
+- [Dicionários](dicionarios/dicionarios.md)
 - [Conjuntos](conjuntos/conjuntos.md)
-- [Função](funcao/funcao.md)
 
 <!-- Capítulo 7 -->
 
 ## Capítulo 7
 - [Mulher inspiradora: Liane Tarouco](mulheres_inspiradoras/liane_tarouco.md)
+- [Função](funcao/funcao.md)
 - [Classes](classes/classes.md)
 
 <!-- Referências -->

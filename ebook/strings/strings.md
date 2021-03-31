@@ -1,6 +1,6 @@
 # Strings
 
-Python é uma linguagem bastante reconhecida pelos recursos que oferece para processamento de textos. Strings são conjuntos de caracteres definidos entre aspas simples ou duplas. Para declarar strings com mais uma linha, usa-se três aspas em sequência.
+Python é uma linguagem bastante reconhecida pelos recursos que oferece para processamento de textos. Strings são conjuntos de caracteres definidos **entre aspas simples ou duplas**. Para declarar strings com mais uma linha, usa-se três aspas em sequência.
 
 ```
 "String de uma única linha"
@@ -56,15 +56,15 @@ Abaixo alguns dos métodos mais utilizados:
 
 ## Split - Entrada de dados
 
-Ainda se lembra que Python lê dados de entrada como uma única linha de texto? Por exemplo: como você extrairia um nome e uma idade digitados numa mesma linha?
+Ainda se lembra que Python lê **dados de entrada como uma única linha de texto**? Por exemplo: como você extrairia um nome e uma idade digitados numa mesma linha?
 
-Como todas as entradas do Python são consideradas textos, portanto strings, você pode utilizar todas as funções de string sobre elas, inclusive a função split()!
+Como todas as entradas do Python são consideradas textos, portanto strings, **você pode utilizar todas as funções de string sobre elas**, inclusive a função split()!
 
 ```
 nome, idade = "Ana 27".split()
 ```
 
-Você pode criar quantas variáveis sejam necessárias para armazenar seus dados. Lembre-se de converter o que for necessário depois!
+Você pode criar quantas variáveis sejam necessárias para armazenar seus dados. Lembre-se de **converter** o que for necessário depois!
 
 
 {% include "../templates/lista_exercicios.md" %}
