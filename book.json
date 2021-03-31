@@ -1,0 +1,10 @@
+{
+    "root": "./ebook",
+    "structure.readme": "README.md",
+    "structure.summary": "SUMMARY.md",
+    "title": "Introdução a Python: para mulheres que sabem programar em outra linguagem",
+    "author": "PyLadies Brasil",
+    "pubdate": "2021-04-05",
+    "language": "pt-br",
+    "honkit": "^3.6.19"
+}
