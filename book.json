@@ -1,5 +1,5 @@
 {
-    "root": "./e-book",
+    "root": "./ebook",
     "structure.readme": "README.md",
     "structure.summary": "SUMMARY.md",
     "title": "Introdução a Python: para mulheres que sabem programar em outra linguagem",

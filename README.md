@@ -14,6 +14,7 @@ O público alvo desse material são pessoas que sabem programar em outra linguag
 2. [Slides](#slides-dvd)
 3. [Série de vídeos](#série-de-vídeos-clapper)
 4. [Lista de exercícios](#lista-de-exercícios-female-technologist)
+5. [Contribuidoras](#heart-orange_heart-yellow_heart-contribuidoras-green_heart-blue_heart-purple_heart)
 
 
 ## E-book :ledger:
@@ -37,7 +38,7 @@ $ npm install honkit --save-dev
 Após a instalação é necessário que você rode o projeto para visualizar o e-book.
 
 ```
-npm run build
+npm run serve
 ```
 
 Prontinho!!! :rainbowl:
@@ -53,7 +54,7 @@ Os slides usados nos encontros presenciais estão disponíveis **[aqui]()**.
 Pensando em proporcionar explicações um pouco mais detalhadas sobre os assuntos, preparamos uma série de vídeos curtos sobre alguns deles:
 
 - [Playlist no Youtube](https://youtube.com/playlist?list=PL0tfcsij9geHSKlUwYXHaJRaGMRWDyLmW)
-- [Lista de vídeos por assunto](serie-youtube.md)
+- [Lista de vídeos por assunto](serie_youtube.md)
 
 ## Lista de exercícios :female-technologist:
 
