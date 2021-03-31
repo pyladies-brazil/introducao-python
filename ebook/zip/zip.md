@@ -28,10 +28,10 @@ ladies = ["Débora", "Ana Cecília", "Tânia", "Ana Dulce"]
 for capitulo, lady in zip(capitulos, ladies): # com duas
   print(f"{lady} da {capitulo}") # variáveis de controle
 
->>Débora da PyLadies Natal
->>Ana Cecília da PyLadies Recife
->>Tânia da PyLadies DF
->>Ana Dulce da PyLadies São Carlos
+>>> Débora da PyLadies Natal
+>>> Ana Cecília da PyLadies Recife
+>>> Tânia da PyLadies DF
+>>> Ana Dulce da PyLadies São Carlos
 ```
 
 {% include "../templates/lista_exercicios.md" %}

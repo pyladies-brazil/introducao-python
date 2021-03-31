@@ -54,4 +54,12 @@
 - [Enumerate](enumerate/enumerate.md)
 - [Zip](zip/zip.md)
 
+<!-- Capítulo 5 -->
+
+## Capítulo 5
+
+- [Mulher inspiradora: Liane Tarouco](mulheres_inspiradoras/liane_tarouco.md)
+- [Tuplas](tuplas/tuplas.md)
+- [Dicionários](dicionarios/dicionarios.md)
+
 - [Referências]()
