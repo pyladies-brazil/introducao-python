@@ -50,5 +50,8 @@
 
 - [Mulher inspiradora: Carol Shaw](mulheres_inspiradoras/carol_shaw.md)
 - [Listas](listas/listas.md)
+- [Map](map/map.md)
+- [Enumerate](enumerate/enumerate.md)
+- [Zip](zip/zip.md)
 
 - [Referências]()
