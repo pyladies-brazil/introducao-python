@@ -62,4 +62,21 @@
 - [Tuplas](tuplas/tuplas.md)
 - [Dicionários](dicionarios/dicionarios.md)
 
-- [Referências]()
+<!-- Capítulo 6 -->
+
+## Capítulo 6
+
+- [Mulher inspiradora: Radia Perlman](mulheres_inspiradoras/radia_perlman.md)
+- [Conjuntos](conjuntos/conjuntos.md)
+- [Função](funcao/funcao.md)
+
+<!-- Capítulo 7 -->
+
+## Capítulo 7
+- [Mulher inspiradora: Liane Tarouco](mulheres_inspiradoras/liane_tarouco.md)
+- [Classes](classes/classes.md)
+
+<!-- Referências -->
+
+## Referências
+- [Referências](referencias/referencias.md)
