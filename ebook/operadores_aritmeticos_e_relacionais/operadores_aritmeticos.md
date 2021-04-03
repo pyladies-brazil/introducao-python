@@ -2,6 +2,7 @@
 Operadores são símbolos que denotam uma operação a ser realizada com dois elementos, também chamados de operandos.
 
 |Operador |Nome |Exemplo |Saída
+|--|--|--|--
 |+ |Adição |39 + 13 |52
 |- |Subtração |39 - 13 |26
 |* |Multiplicação |39 * 13 |507
