@@ -1,40 +1,126 @@
 # Como contribuir
+Muito obrigada por nos ajudar a compor este material! A ferramenta utilizada é a [HonKit](https://github.com/honkit/honkit/), que gera arquivos HTML estáticos a partir de arquivos Markdown (.md). No [README](README.md) explicamos direitinho como você pode rodar o projeto na sua máquina.
 
-> Muito obrigada por nos ajudar a compor este material! A ferramenta utilizada é a HonKit, que gera arquivos HTML estáticos a partir de arquivos Markdown (.md)
+Caso você só queira visualizar como ficará o seu markdown, só precisa usar o [Hackmd](https://hackmd.io/). Ou seja, caso você **nunca** tenha escrito uma documentação em Markdown, pode ser a sua chance!:rocket:
 
-### 1º Leia a documentação do Honkit
+**Sumário**
 
-Caso você só queira visualizar como ficará o seu markdown, só precisa usar o Hackmd.io (Tabela 1). Ou seja, caso você **nunca** tenha escrito uma documentação em Markdown, pode ser a sua chance!
+1. [Antes de iniciar](#antes-de-iniciar)
+   - [Forkando e clonando o repositório](#forkando-e-clonando-o-repositório)
+2. Realizando alterações
+   - [Modificando e-Book](#modificando-e-book)
+     - [Alterando artigo existente](#alterando-artigo-existente)
+     - [Criando novo artigo](#criando-novo-artigo)
+   - [Modificando lista de vídeos](#modificando-lista-de-vídeos)
+   - [Atualizando slides](#atualizando-slides)
+4. [Enviando as modificações](#enviando-as-modificações)
+   - [1. Commit seu código](#1-commit-seu-código)
+   - [2. Atualize seu fork](#2-atualize-seu-fork)
+   - [3. Envie as modificações](#3-envie-as-modificações)
 
-Para visualizar o seu markdown como site estático, você precisará ter Node.js instalado e posteriormente, instalar o pacote Honkit (Tabela 1). Para instalar pacotes Node, você deve ter na sua máquina o npm.
-Para saber quais são os comandos de inicialização, deves acessar o repositório do projeto que está no GitHub (Tabela 1).
 
-Tabela 1
-| Site | Link |
-| -------------------- | :------------------------------------------ |
-| Honkit | [:link:][https://honkit.netlify.app/] |
-| Honkit (repositório) | [:link:][https://github.com/honkit/honkit/] |
-| HACKMD | [:link:][https://hackmd.io/] |
-| Npm | [:link:][https://www.npmjs.com/] |
+## Antes de iniciar
+### Forkando e clonando o repositório
 
-:rocket:
+1. Faça o fork do projeto
+2. Clone seu fork para a sua máquina:
+```
+git clone <Link do seu fork>
+```
 
-### 2º Encontre o material que você quer transcrever
+3. Crie uma branch para as modificações em que trabalhará: 
+```
+git checkout -b <nome-da-branch-das-modificações>
+```
 
-Neste caso, a PyLady deve copiar o conteúdo do slide e trazudir para md, isto é, converter tabelas, trechos de código para Markdown (novamente, caso não estejas familiarizada com md.,o HACKMD conta com templates de uso dessa linguagem de marcação).
+## Modificando e-Book
+### Alterando artigo existente
+Navege pelo [Sumário](ebook/SUMMARY.md), encontre o artigo que deseja modificar, acesse-o e modifique o seu Markdown. Após testes no [Hackmd](https://hackmd.io/) ou no próprio e-book, envie as modificações seguindo as orientações da sessão [Enviando as modificações](#enviando-as-modificações).
 
-### 3º Encontre o material que você quer transcrever
+### Criando novo artigo
+Verifique se o assunto já não está contido em nenhum artigo existente.
 
-As pastas já contêm o arquivo md, neste caso, o que é precisamos é que insiras o conteúdo. Após testes no HACKMD e/ou Honkit, use os seguintes comandos para subir as suas alterações para o repositório remoto das PyLadies Brasil dentro da branch feature/honkit.
+A estrutura de diretório é a seguinte:
 
 ```
-git add .
+├── ebook
+    ├── book.json
+    ├── README.md
+    ├── SUMMARY.md
+    ├── assunto/   
+        └── assunto.md
+```
+1. Crie uma nova pasta e dentro dela um arquivo.md
+2. Insira o conteúdo do arquivo usando a seguinte estrura:
+```
+# Assunto
+
+[Conteúdo]
+
+{% include "../templates/lista_exercicios.md" %} #Essa linha adicionará o link para a lista de exercícios
+```
+3. Adicione esse novo artigo no [Sumário](ebook/SUMMARY.md)
+4. Após testes no [Hackmd](https://hackmd.io/) ou no próprio e-book, envie as modificações seguindo as orientações da sessão [Enviando as modificações](#enviando-as-modificações).
+
+## Modificando lista de vídeos
+Acesse o arquivo [serie_youtube](serie_youtube.md) e insira o link para o vídeo correspondente na tabela.
+
+## Atualizando slides
+Substitua o arquivo (.pdf) com os slides por outro com exatamente mesmo nome. Isso é necessário para não quebre os links que remetem ao slides e que estão presentes no e-book e demais partes desse repositório.
+
+## Enviando as modificações
+### 1. Commit seu código
+1. Verifique os arquivos modificados:
+```
+git status
+```
+
+2. Adicione na staging area apenas os arquivos que vocẽ modificou:
+```
+git add <nome do arquivo> #adicione aqui todos os arquivos modificados separando-os por um espaço em branco
+```
+
+3. Faça um comentário sobre as modificações realizadas
+```
 git commit -m "Insira a sua mensagem aqui"
-git push origin feature/honkit
 ```
+
+### 2. Atualize seu fork
+Como esse projeto é feito a várias mãos, é interessante que antes de enviar as modificações você sempre atualize seu fork com as novas informações do repositório original.
+
+1. Adicione o repositório original:
+```
+git remote add upstream https://github.com/pyladies-brazil/introducao-python.git
+```
+
+2. Verifique que você está na sua branch principal:
+```
+git checkout main
+```
+
+3. Atualize sua branch principal:
+```
+git pull upstream main
+```
+
+4. Atualize a branch a qual você realizou as modificações:
+```
+git checkout <nome-da-branch-das-modificações>
+git rebase main
+```
+
+### 3. Envie as modificações
+1. Faça push desses commits para sua branch: 
+```
+git push origin <nome-da-branch-das-modificações>
+```
+
+Acesse a [página de pull requeste do repositório](https://github.com/pyladies-brazil/introducao-python/pulls), lá deve aparecer uma janela com destaque amarelo. Clique no botão para criar um novo pull request, preecha a mensagem e salve.
+
+Feito!!!:sunflower:
 
 > Deu tudo certo? Compartilhe este material para colegas, amigas suas que estejam querendo estudar Python, mas que também serve para iniciantes que estejam aprendendo as suas primeiras linguagens de programação. :heart:
 
 :::info
-:bulb: **Dica:** Dúvidas podem ser enviadas ao nosso canal #pyladies-criacao-de-material no nosso workspace Slack: **https://www.slackin.pyladies.com**
+:bulb: **Dica:** Dúvidas podem ser enviadas [abrindo uma nova issue](https://github.com/pyladies-brazil/introducao-python/issues).
 :::
