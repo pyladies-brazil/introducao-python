@@ -64,3 +64,10 @@ Os **[slides]()** e e-book estão recheados de exercícios práticos que podem s
 ## :heart: :orange_heart: :yellow_heart: Contribuidoras :green_heart: :blue_heart: :purple_heart:
 
 [INSERIR AQUI FOTO LINKADA PARA GITHUB OU LINKEDIN DA LADIE]
+
+---
+## Licença :unlock:
+
+CC BY-SA 4.0 - PyLadies Brasil - 2021
+
+[Texto completo](LICENSE)
