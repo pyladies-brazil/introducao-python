@@ -73,7 +73,7 @@
 <!-- Capítulo 7 -->
 
 ## Capítulo 7
-- [Mulher inspiradora: Liane Tarouco](mulheres_inspiradoras/liane_tarouco.md)
+- [Mulher inspiradora: Judith Kelner](mulheres_inspiradoras/judith_kelner.md)
 - [Função](funcao/funcao.md)
 - [Classes](classes/classes.md)
 
