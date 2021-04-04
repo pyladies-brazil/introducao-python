@@ -6,8 +6,10 @@
 
 **A indentação é muito importante, pois é o que define blocos de código em Python! **Nessa tabela, utilizamos "." para indicar a quantidade de espaço em branco necessário.
 
-Python preza pela legibilidade, por isso existe a cláusula **elif**, ela substitui um else e um if encadeado, pois esse tipo de construção implicaria em aninhamento e queremos evitar isso:
+Python preza pela legibilidade, por isso existe a cláusula **elif**. Ela substitui um else com um if encadeado, os quais gerariam **aninhamento**:
 
 ![image](../assets/hadouken-codigo.png)
+
+**Queremos evitar isso!**
 
 {% include "../templates/lista_exercicios.md" %}

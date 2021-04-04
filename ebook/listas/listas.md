@@ -35,10 +35,10 @@ Listas são mutáveis, ou seja, é possível alterar seus elementos: adicionando
 | Operador| Explicação| Exemplo| Saída
 |--|--|--|--
 | Concatenação (+)| Cria uma nova lista com a concatenação das listas passadas| natal = ["Débora", "Clara"]<br /><br />sao_carlos = ["Marília", "Belém"]<br /><br /> ladies = natal + sao_carlos| ['Débora', 'Clara', 'Marília', 'Belém']
-| Repetição (*)| Cria uma nova lista com n concatenações da lista passada| pyladies = ["PyBar", "Papo", "GTs"]<br /><br /> vida = pyladies * 3| ['PyBar', 'Papo', 'GTs', 'PyBar', 'Papo', 'GTs', | 'PyBar', 'Papo','GTs']
+| Repetição (*)| Cria uma nova lista com n concatenações da lista passada| pyladies = ["PyBar", "Papo", "GTs"]<br /><br /> vida = pyladies * 3| ['PyBar', 'Papo', 'GTs', 'PyBar', 'Papo', 'GTs', 'PyBar', 'Papo','GTs']
 | Indexação ([])| Retorna um elemento de uma lista. O primeiro índice é o zero.| capitulos = ['Recife', 'São Carlos', 'Salvador', 'Macaé']<br /><br /> capitulos = [1]| São Carlos
-| elemento **in** lista| Verifica se um elemento está presente em uma lista.| letras = ['P', 'Y', 'L', 'A', 'D', 'I', 'E', 'S']| 'Y' in letras| True
-| elemento **not in** lista| Verifica se um elemento está ausente em uma lista.| letras = ['P', 'Y', 'L', 'A', 'D', 'I', 'E', 'S']| 'Y' not in letras| False
+| elemento **in** lista| Verifica se um elemento está presente em uma lista.| letras = ['P', 'Y', 'L', 'A', 'D', 'I', 'E', 'S']<br /> <br/> 'Y' in letras| True
+| elemento **not in** lista| Verifica se um elemento está ausente em uma lista.| letras = ['P', 'Y', 'L', 'A', 'D', 'I', 'E', 'S']<br /> <br/> 'Y' not in letras | False
 | Fatiamento ([:])| Retorna um subconjunto de elementos de uma lista. Final não inclusivo. Passo é parâmetro opcional que se não passado é 1 por default. Os parâmetros default de início e fim são o início e fim da lista, respectivamente.| capitulos = ['Recife', 'São Carlos', 'Salvador', 'Macaé', 'Manaus', 'Rio']<br /><br /> capitulos[1:3]<br /><br /> capitulos[::2]| <br /><br /><br /><br /><br /><br /><br /><br />['São Carlos', 'Salvador']<br /><br /> ['Recife', 'Salvador', 'Manaus']
 | lista.append(elemento)| Adiciona um novo elemento ao final da lista.| inteiros = [1, 2, 3]<br /><br /> inteiros.append(10)| [1, 2, 3, 10]
 | lista.insert(posicao, elemento)| Adiciona um novo elemento numa determinada posição da lista. Todos os elementos daquela posição em diante são deslocados uma posição para frente.| disciplinas = ["SO", "IA"]<br /><br /> disciplinas.insert(0, "CAP")| ['CAP', 'SO', 'IA']

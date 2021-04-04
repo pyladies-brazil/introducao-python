@@ -18,7 +18,7 @@ O público alvo desse material são pessoas que sabem programar em outra linguag
 
 
 ## E-book :ledger:
-Nosso e-book está disponível online **[nesse link]**, mas você também pode rodá-lo no seu computador para fazer as anotações que desejar. Recomendamos que faça um fork desse repositório e personalize seu e-book como desejar.
+Nosso e-book está disponível online **[nesse link](https://introducao-a-python-pyladies-brasil.netlify.app/)**, mas você também pode rodá-lo no seu computador para fazer as anotações que desejar. Recomendamos que faça um fork desse repositório e personalize seu e-book como desejar.
 
 ### Requisitos
 
@@ -47,7 +47,7 @@ Descubra como fazer modificações no seu e-book ou nos enviar contribuições p
 
 ## Slides :dvd:
 
-Os slides usados nos encontros presenciais estão disponíveis **[aqui]()**.
+Os slides usados nos encontros presenciais estão disponíveis **[aqui](slides.pdf)**.
 
 ## Série de vídeos :clapper:
 
@@ -58,7 +58,7 @@ Pensando em proporcionar explicações um pouco mais detalhadas sobre os assunto
 
 ## Lista de exercícios :female-technologist:
 
-Os **[slides]()** e e-book estão recheados de exercícios práticos que podem ser encontrados também no **[Hackerrank]()**. Praticar é a mehor forma para aprendermos uma nova lingagem.
+Os [slides](slides.pdf) e [e-book](https://introducao-a-python-pyladies-brasil.netlify.app/) estão recheados de exercícios práticos que podem ser encontrados também no **[Hackerrank](https://www.hackerrank.com/introducao-a-python-pyladies-brasil)**. Praticar é a melhor forma para aprendermos uma nova lingagem.
 
 ---
 ## :heart: :orange_heart: :yellow_heart: Contribuidoras :green_heart: :blue_heart: :purple_heart:
