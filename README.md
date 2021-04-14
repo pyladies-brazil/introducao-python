@@ -132,8 +132,43 @@ Assim cada lady terá sua fotinha e um link social
         <img src="https://avatars.githubusercontent.com/u/20743819?v=4" width="80" height="80" /><br>
         <p><a href="https://github.com/fernandascovino">Fernanda Scovino</a></p>
     </td>
-    
+    <td>
+        <img src="https://avatars.githubusercontent.com/u/9660774?v=4" width="80" height="80" /><br>
+        <p><a href="https://github.com/Lorenaps">Lorena Pereira</a></p>
+    </td>
+    <td>
+        <p>Camila Morais</p>
+    </td>
+    <td>
+        <p>Ana Paula Carneiro</p>
+    </td>
+    <td>
+        <img src="https://avatars.githubusercontent.com/u/8157164?v=4" width="80" height="80" /><br>
+        <p><a href="https://github.com/hereismari">Marianne Linhares Monteiro</a></p>
+    </td>
+</tr>
 <tr>
+    <td>
+        <img src="https://avatars.githubusercontent.com/u/9946227?v=4" width="80" height="80" /><br>
+        <p><a href="https://github.com/dandaramcsousa">Dandara Sousa</a></p>
+    </td>
+    <td>
+        <img src="https://avatars.githubusercontent.com/u/34974649?v=4" width="80" height="80" /><br>
+        <p><a href="https://github.com/pamellabiotec">Pâmella Araújo Balcaçar</a></p>
+    </td>
+    <td>
+        <img src="https://avatars.githubusercontent.com/u/49278266?v=4" width="80" height="80" /><br>
+        <p><a href="https://github.com/chainao">Chaina Santos</a></p>
+    </td>
+    <td>
+        <img src="https://avatars.githubusercontent.com/u/17454743?v=4" width="80" height="80" /><br>
+        <p><a href="https://github.com/alynnefs">Alynne Ferreira</a></p>
+    </td>
+    <td>
+        <img src="https://avatars.githubusercontent.com/u/27288941?v=4" width="80" height="80" /><br>
+        <p><a href="https://github.com/thayanavt">Thayana Tavares</a></p>
+    </td>
+</tr>
 </table>
 </center>
 
