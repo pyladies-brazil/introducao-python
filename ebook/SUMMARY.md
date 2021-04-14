@@ -77,7 +77,8 @@
 - [Função](funcao/funcao.md)
 - [Classes](classes/classes.md)
 
-<!-- Referências -->
+<!-- SAIBA MAIS -->
 
-## Referências
+## Saiba mais
 - [Referências](referencias/referencias.md)
+- [Guia da organização](organizacao/organizacao.md)
