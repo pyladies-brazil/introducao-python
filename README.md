@@ -1,6 +1,6 @@
 # Introdução a Python: para mulheres que sabem programar em outra linguagem
 
-###### tags: `Python` `Sintax` `Básico` `Intermediário`
+###### tags: `Python 3` `Sintax` `Básico`
 
 Olá, PyLady! Seja bem-vinda ao repositório do grupo de estudo "Introdução a Python", aqui você encontrará todos os materiais produzidos para incentivar o aprendizado de Python (ebook, slides, série de vídeos e exercícios). Isso tudo foi organizado por muitas mentes e mãos do PyLadies Brasil :heart:
 
@@ -56,7 +56,7 @@ Pensando em proporcionar explicações um pouco mais detalhadas sobre os assunto
 - [Playlist no Youtube](https://youtube.com/playlist?list=PL0tfcsij9geHSKlUwYXHaJRaGMRWDyLmW)
 - [Lista de vídeos por assunto](serie_youtube.md)
 
-## Lista de exercícios :female-technologist:
+## Lista de exercícios :computer:
 
 Os [slides](slides.pdf) e [e-book](https://introducao-a-python-pyladies-brasil.netlify.app/) estão recheados de exercícios práticos que podem ser encontrados também no **[Hackerrank](https://www.hackerrank.com/introducao-a-python-pyladies-brasil)**. Praticar é a melhor forma para aprendermos uma nova lingagem.
 
