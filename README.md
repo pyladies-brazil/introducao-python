@@ -89,7 +89,7 @@ Assim cada lady terá sua fotinha e um link social
         <p><a href="https://github.com/tiidadavena">Juliana Barros Lima</a></p>
     </td>
     <td>
-        <img ssrc="https://avatars.githubusercontent.com/u/30605862?v=4" width="80" height="80" /><br>
+        <img src="https://avatars.githubusercontent.com/u/30605862?v=4" width="80" height="80" /><br>
         <p><a href="https://github.com/cecivieira">Ana Cecília Vieira</a></p>
     </td>
     <td>
