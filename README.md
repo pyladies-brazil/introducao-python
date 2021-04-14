@@ -63,7 +63,79 @@ Os [slides](slides.pdf) e [e-book](https://introducao-a-python-pyladies-brasil.n
 ---
 ## :heart: :orange_heart: :yellow_heart: Contribuidoras :green_heart: :blue_heart: :purple_heart:
 
-[INSERIR AQUI FOTO LINKADA PARA GITHUB OU LINKEDIN DA LADIE]
+Esse projeto só foi possível graças ao esforço conjunto das PyLadies que se dedicaram a esse projeto. Confiram quem são elas abaixo:
+
+<!-- 
+Estamos usando uma estrutura de tabela html para listar as contribuidoras desse projeto. Tudo que você precisa fazer é copiar o codigo que temos nas linhas abaixo e fazer as substituições de acordo ;)
+
+Para adicionar uma nova pessoa à lista use as linhas abaixo fazendo os ajustes necessários: 
+    1. lembre de inserir o link da foto da lady entre aspas onde está escrito "LINK DA FOTO"
+    2. lembre de inserir o link de referência da lady entre aspas onde está escrito "LINK DA LADY"
+    3. por fim, lembre de inserir o nome da lady entre aspas onde está escrito NOME DA LADY 
+Assim cada lady terá sua fotinha e um link social 
+
+
+    <td>
+        <img src="LINK_DA_FOTO" width="80" height="80" /><br>
+        <p><a href="LINK_DA_LADY">NOME_DA_LADY</a></p>
+    </td>
+-->
+
+<center>
+<table>
+<tr>
+    <td>
+        <img src="https://avatars.githubusercontent.com/u/12106738?v=4" width="80" height="80" /><br>
+        <p><a href="https://github.com/tiidadavena">Juliana Barros Lima</a></p>
+    </td>
+    <td>
+        <img ssrc="https://avatars.githubusercontent.com/u/30605862?v=4" width="80" height="80" /><br>
+        <p><a href="https://github.com/cecivieira">Ana Cecília Vieira</a></p>
+    </td>
+    <td>
+        <img src="https://avatars.githubusercontent.com/u/69212483?v=4" width="80" height="80" /><br>
+        <p><a href="https://github.com/Larissa-Rocha">Larissa Rocha</a></p>
+    </td>
+    <td>
+        <img src="https://avatars.githubusercontent.com/u/5026063?v=4" width="80" height="80" /><br>
+        <p><a href="https://github.com/deboraazevedo">Débora Azevedo</a></p>
+    </td>
+    <td>
+        <img src="https://avatars.githubusercontent.com/u/63564756?v=4" width="80" height="80" /><br>
+        <p><a href="https://github.com/naracampos">Nara Campos</a></p>
+    </td>
+</tr>
+<tr>
+    <td>
+        <img src="https://avatars.githubusercontent.com/u/62582168?v=4" width="80" height="80" /><br>
+        <p><a href="https://github.com/Kadidjah">Kadidja Valéria</a></p>
+    </td>
+    <td>
+        <img src="https://avatars.githubusercontent.com/u/13003907?v=4" width="80" height="80" /><br>
+        <p><a href="https://github.com/anadulce">Ana Dulce</a></p>
+    </td>
+    <td>
+        <img src="https://avatars.githubusercontent.com/u/30702989?v=4" width="80" height="80" /><br>
+        <p><a href="https://github.com/22renata">Renata</a></p>
+    </td>
+    <td>
+        <img src="https://avatars.githubusercontent.com/u/69085370?v=4" width="80" height="80" /><br>
+        <p><a href="https://github.com/vevedomiciano">Verônica Domiciano</a></p>
+    </td>
+    <td>
+        <img src="https://avatars.githubusercontent.com/u/79805515?v=4" width="80" height="80" /><br>
+        <p><a href="https://github.com/MoraisCamila91">Camila Morais</a></p>
+    </td>    
+</tr>
+<tr>
+    <td>
+        <img src="https://avatars.githubusercontent.com/u/20743819?v=4" width="80" height="80" /><br>
+        <p><a href="https://github.com/fernandascovino">Fernanda Scovino</a></p>
+    </td>
+    
+<tr>
+</table>
+</center>
 
 ---
 ## Licença :unlock:
