@@ -6,22 +6,23 @@ Como resultado, muitas mulheres e meninas entraram nas comunidades procurando ap
 
 **Sumário**
 
-- [Primeiros passos](#primeiros-passos)
-  - [1 - Mapeamento do perfil das novas integrantes das comunidades](#1---mapeamento-do-perfil-das-novas-integrantes-das-comunidades)
-  - [2 - Convocatória para 1ª reunião](#2---convocatória-para-1ª-reunião)
-  - [3 - Canal de comunicação](#3---canal-de-comunicação)
-- [Escopo](#escopo)
-- [Materiais desenvolvidos](#materiais-desenvolvidos)
-  - [Série de vídeos](#série-de-vídeos)
-    - [Roteiro](#roteiro)
-    - [Edição](#edição)
-    - [Descrição do vídeo no Youtube](#descrição-do-vídeo-no-youtube)
-- [Identidade Visual](#identidade-visual)
-- [Encontros ao vivo](#encontros-ao-vivo)
+- [1.1. Primeiros passos](#11-primeiros-passos)
+  - [1.1.1. Mapeamento do perfil das novas integrantes das comunidades](#111-mapeamento-do-perfil-das-novas-integrantes-das-comunidades)
+  - [1.1.2. Convocatória para 1ª reunião](#112-convocatória-para-1ª-reunião)
+  - [1.1.3. Definição do canal de comunicação](#113-definição-do-canal-de-comunicação)
+- [1.2. Escopo](#12-escopo)
+- [1.3. Materiais desenvolvidos](#13-materiais-desenvolvidos)
+  - [1.3.1. Série de vídeos](#131-série-de-vídeos)
+    - [1.3.1.1. Roteiro](#1311-roteiro)
+    - [1.3.1.2. Edição](#1312-edição)
+    - [1.3.1.3. Descrição do vídeo no Youtube](#1313-descrição-do-vídeo-no-youtube)
+- [1.4. Identidade Visual](#14-identidade-visual)
+- [1.5. Encontros ao vivo](#15-encontros-ao-vivo)
 
 ## 1.1. Primeiros passos
 
-### 1.1.1. 1 - Mapeamento do perfil das novas integrantes das comunidades
+### 1.1.1. Mapeamento do perfil das novas integrantes das comunidades
+
 
 ![imagem](../assets/organizacao/pesquisa_grupo_estudo.jpg)
 
@@ -58,7 +59,8 @@ Para entender o perfil das pessoas interessadas no grupo de estudo, entre 31 ago
 
 Com isso identificamos dois principais perfis: pessoas que buscam o primeiro contato com a programação e pessoas que sabem programar em outra linguagen. Dada nossa pouca experiência na organização de um grupo de estudo estruturado, na [reunião do dia 04 set. 2021](https://github.com/pyladies-brazil/organizacao/issues/21) escolhemos como público alvo o grupo de mulheres que sabem programar em outra linguagem.
 
-### 1.1.2. 2 - Convocatória para 1ª reunião
+### 1.1.2. Convocatória para 1ª reunião
+
 
 Entendemos que nossa força está na construção coletiva, por isso após o surgimento de uma ideia, a primeira coisa que fizemos foi disseminá-la e marcar uma reunião para que qualquer mulher interessada pudesse participar do seu amadurecimento e possível execução.
 
@@ -66,7 +68,9 @@ As convocações para reuniões foram realizadas através de envio de mensagem p
 
 Para ampliar a adesão de mulheres à reunião, criamos uma enquete, estilo [Doodle](https://doodle.com/), para escolha de melhor dia e horário.
 
-### 1.1.3. 3 - Definição do canal de comunicação
+
+### 1.1.3. Definição do canal de comunicação
+
 
 Durante a [primeira reunião](https://github.com/pyladies-brazil/organizacao/issues/21) estabelecemos o Slack da PyLadies como ambiente para comunicação assíndrona, especificamente o canal #brasil-pyladies-criacao-de-material, e reuniões semanais (sextas-feiras às 19h).
 
