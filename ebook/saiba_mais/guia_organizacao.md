@@ -23,6 +23,7 @@ Como resultado, muitas mulheres e meninas entraram nas comunidades procurando ap
 
 ### 1.1.1. Mapeamento do perfil das novas integrantes das comunidades
 
+
 ![imagem](../assets/organizacao/pesquisa_grupo_estudo.jpg)
 
 Para entender o perfil das pessoas interessadas no grupo de estudo, entre 31 ago. e 04 set. (2021) lançamos em todas os canais de comunicação uma pesquisa com as seguintes perguntas e respostas possível:
@@ -60,13 +61,16 @@ Com isso identificamos dois principais perfis: pessoas que buscam o primeiro con
 
 ### 1.1.2. Convocatória para 1ª reunião
 
+
 Entendemos que nossa força está na construção coletiva, por isso após o surgimento de uma ideia, a primeira coisa que fizemos foi disseminá-la e marcar uma reunião para que qualquer mulher interessada pudesse participar do seu amadurecimento e possível execução.
 
 As convocações para reuniões foram realizadas através de envio de mensagem para lista de e-mail pyladiesbrazil@googlegroups.com, além disso foi criado um evento no Google Calendar e enviado o convite para a mesma lista.
 
 Para ampliar a adesão de mulheres à reunião, criamos uma enquete, estilo [Doodle](https://doodle.com/), para escolha de melhor dia e horário.
 
+
 ### 1.1.3. Definição do canal de comunicação
+
 
 Durante a [primeira reunião](https://github.com/pyladies-brazil/organizacao/issues/21) estabelecemos o Slack da PyLadies como ambiente para comunicação assíndrona, especificamente o canal #brasil-pyladies-criacao-de-material, e reuniões semanais (sextas-feiras às 19h).
 
