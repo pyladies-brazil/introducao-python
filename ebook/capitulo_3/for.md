@@ -17,7 +17,7 @@ for i in range(1, 11):
 ```
 
 ## For... else
-Antes de seguir nessa seção, sugerimos a leitura dos assuntos [Break](../break_e_continue/break.md) e [Continue](../break_e_continue/continue.md).
+Antes de seguir nessa seção, sugerimos a leitura dos assuntos [Break](../capitulo_4/break.md) e [Continue](../capitulo_4/continue.md).
 
 ```
 for (valor na sequência):
