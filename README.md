@@ -162,9 +162,8 @@ Assim cada lady terá sua fotinha e um link social
         <p><a href="https://github.com/deboraazevedo">Débora Azevedo</a></p>
       </td>
       <td>
-        <td>
-          <img src="https://avatars.githubusercontent.com/u/21251472?v=4" width="80" height="80" /><br>
-          <p><a href="https://github.com/naanadr">Fernanda</a></p>
+        <img src="https://avatars.githubusercontent.com/u/21251472?v=4" width="80" height="80" /><br>
+        <p><a href="https://github.com/naanadr">Fernanda</a></p>
       </td>
       <td>
         <img src="https://avatars.githubusercontent.com/u/20743819?v=4" width="80" height="80" /><br>
