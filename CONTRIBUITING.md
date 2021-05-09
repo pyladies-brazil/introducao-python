@@ -47,7 +47,7 @@ A estrutura de diretório é a seguinte:
     ├── book.json
     ├── README.md
     ├── SUMMARY.md
-    ├── assunto/   
+    ├── capitulo_1/   
         └── assunto.md
 ```
 1. Crie uma nova pasta e dentro dela um arquivo.md
