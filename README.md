@@ -132,9 +132,6 @@ Assim cada lady terá sua fotinha e um link social
     <!-- LINHA 3 -->
     <tr>
       <td>
-        <p>Ana Paula Carneiro</p>
-      </td>
-      <td>
         <img src="https://avatars.githubusercontent.com/u/79805515?v=4" width="80" height="80" /><br>
         <p><a href="https://github.com/MoraisCamila91">Camila Morais</a></p>
       </td>
@@ -150,13 +147,13 @@ Assim cada lady terá sua fotinha e um link social
         <img src="https://avatars.githubusercontent.com/u/49278266?v=4" width="80" height="80" /><br>
         <p><a href="https://github.com/chainao">Chaina Santos</a></p>
       </td>
-    </tr>
-    <!-- LINHA 4 -->
-    <tr>
       <td>
         <img src="https://avatars.githubusercontent.com/u/9946227?v=4" width="80" height="80" /><br>
         <p><a href="https://github.com/dandaramcsousa">Dandara Sousa</a></p>
       </td>
+    </tr>
+    <!-- LINHA 4 -->
+    <tr>
       <td>
         <img src="https://avatars.githubusercontent.com/u/5026063?v=4" width="80" height="80" /><br>
         <p><a href="https://github.com/deboraazevedo">Débora Azevedo</a></p>
@@ -172,13 +169,13 @@ Assim cada lady terá sua fotinha e um link social
       <td>
         <p>Gabriela Entringe</p>
       </td>
-    </tr>
-    <!-- LINHA 5 -->
-    <tr>
       <td>
         <img src="https://avatars.githubusercontent.com/u/29407931?v=4" width="80" height="80" /><br>
         <p><a href="https://github.com/GabrielleDuarte">Gabrielle Duarte</a></p>
       </td>
+    </tr>
+    <!-- LINHA 5 -->
+    <tr>
       <td>
         <img src="https://avatars.githubusercontent.com/u/15175251?v=4" width="80" height="80" /><br>
         <p><a href="https://github.com/ingridl-santos">Ingrid Santos</a></p>
@@ -194,13 +191,13 @@ Assim cada lady terá sua fotinha e um link social
         <img src="https://avatars.githubusercontent.com/u/6595551?v=4" width="80" height="80" /><br>
         <p><a href="https://github.com/jtemporal">Jessica Temporal</a></p>
       </td>
-    </tr>
-    <!-- LINHA 6 -->
-    <tr>
       <td>
         <img src="https://avatars.githubusercontent.com/u/12106738?v=4" width="80" height="80" /><br>
         <p><a href="https://github.com/tiidadavena">Juliana Barros</a></p>
       </td>
+    </tr>
+    <!-- LINHA 6 -->
+    <tr>
       <td>
         <img src="https://avatars.githubusercontent.com/u/49698966?v=4" width="80" height="80" /><br>
         <p><a href="https://github.com/julianafalves">Juliana Alves</a></p>
@@ -217,12 +214,12 @@ Assim cada lady terá sua fotinha e um link social
         <img src="https://avatars.githubusercontent.com/u/69212483?v=4" width="80" height="80" /><br>
         <p><a href="https://github.com/Larissa-Rocha">Larissa Rocha</a></p>
       </td>
-    </tr>
-    <!-- LINHA 7 -->
-    <tr>
       <td>
         <p>Lis Barreto</p>
       </td>
+    </tr>
+    <!-- LINHA 7 -->
+    <tr>
       <td>
         <img src="https://avatars.githubusercontent.com/u/9660774?v=4" width="80" height="80" /><br>
         <p><a href="https://github.com/Lorenaps">Lorena Pereira</a></p>
@@ -239,13 +236,13 @@ Assim cada lady terá sua fotinha e um link social
         <img src="https://avatars.githubusercontent.com/u/14565450?v=4" width="80" height="80" /><br>
         <p><a href="https://github.com/mrncstt">Mariana Costa</a></p>
       </td>
-    </tr>
-    <!-- LINHA 8 -->
-    <tr>
       <td>
         <img src="https://avatars.githubusercontent.com/u/8157164?v=4" width="80" height="80" /><br>
         <p><a href="https://github.com/hereismari">Marianne Linhares Monteiro</a></p>
       </td>
+    </tr>
+    <!-- LINHA 8 -->
+    <tr>
       <td>
         <img src="https://avatars.githubusercontent.com/u/63564756?v=4" width="80" height="80" /><br>
         <p><a href="https://github.com/naracampos">Nara Campos</a></p>
@@ -262,9 +259,6 @@ Assim cada lady terá sua fotinha e um link social
         <img src="https://avatars.githubusercontent.com/u/27288941?v=4" width="80" height="80" /><br>
         <p><a href="https://github.com/thayanavt">Thayana Tavares</a></p>
       </td>
-    </tr>
-    <!-- LINHA 8 -->
-    <tr>
       <td>
         <img src="https://avatars.githubusercontent.com/u/69085370?v=4" width="80" height="80" /><br>
         <p><a href="https://github.com/vevedomiciano">Verônica Domiciano</a></p>
