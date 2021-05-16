@@ -4,7 +4,7 @@ Em Python, um comentário deve explicar o que aquela linha ou trecho de código 
 
 **Sintaxe:**
 
-```
+```python
 # comentário de 1 linha
 
 '''
