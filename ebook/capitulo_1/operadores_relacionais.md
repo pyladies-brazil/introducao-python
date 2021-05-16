@@ -4,7 +4,7 @@ Lembram de inequações?
 
 Comparação entre valores de qualquer tipo, mas, comparação entre tipos diferentes não funcionam bem! 
 
-O resultado sempre será um valor de tipo bool, False ou True!
+O resultado sempre será um valor de tipo `bool`, `False` ou `True`!
 
 |Operador |Nome |Exemplo |Saída
 |--|--|--|--
