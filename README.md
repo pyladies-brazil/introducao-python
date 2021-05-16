@@ -41,7 +41,7 @@ Após a instalação é necessário que você rode o projeto para visualizar o e
 npm run serve
 ```
 
-Prontinho!!! :rainbowl:
+Prontinho!!! :rainbow:
 
 Descubra como fazer modificações no seu e-book ou nos enviar contribuições para melhorá-lo no [Guia de Contribuição](CONTRIBUITING.md).
 
