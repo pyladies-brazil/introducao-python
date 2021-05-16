@@ -12,7 +12,7 @@ doce = 'brigadeiro'
 
 - usar **algarismos, letras ou \_**
 - **nunca** começar com um algarismo
-- **não usar palavras reservadas** do Python, como if, while, etc.
+- **não usar palavras reservadas** do Python, como `if`, `while`, etc.
   
 ## Declaração e atribuição
 
