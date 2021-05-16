@@ -3,8 +3,8 @@
 De forma simplificada, variável é um nome que associamos a um valor ou expressão (informação).
 
 **Sintaxe:** 
-```
-nome_da_variavel = conteudo
+```python
+# nome_da_variavel = conteudo
 doce = 'brigadeiro'
 ```
 
