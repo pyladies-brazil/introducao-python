@@ -16,7 +16,10 @@ Siga a lista a seguir para lembrar de todos os detalhes que deve checar
 - [ ] Todos os links do capítulo funcionam e estão corretos
 - [ ] Todos os trechos de código estão estilizados? (exemplo: usando crase para identificar nomes de `funções` e `classes` no meio de texto)
 - [ ] Todos os exemplos com inserção de código são precedidos por `>>>`
-- [ ] Você não encontrou erros de digitação nas seções do capítulo 
+- [ ] Você não encontrou erros de digitação nas seções do capítulo
+- [ ] Garantir que todos os blocos de código estão com syntax highlight
+- [ ] Confirmar que todos os exemplos de código seguem o PEP8
+- [ ] Verificar se o vídeo linkado corresponde ao vídeo do capítulo
 
 **Ao abrir o PR**
 
