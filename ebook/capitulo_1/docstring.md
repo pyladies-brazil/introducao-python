@@ -1,6 +1,6 @@
 # Docstring
 
-Usada para documentar o código, deve vir logo após a definição de uma classe ou função.
+Usada para documentar o código, deve vir logo após a definição de uma classe ou função. Podem ser usada aspas simples ou duplas na sua declaração.
 
 **Sintaxe:**
 
