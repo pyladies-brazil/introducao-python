@@ -24,9 +24,9 @@ Por ser uma linguagem dinâmica, as variáveis **não são associadas a tipos de
 
 |Exemplo de entrada |Exemplo de saída
 |--|--
-|a = 10 |>>> a <br/>10
-|a = 10 <br />a = "PyLadies" |>>> a <br />'PyLadies'
-|inicio = fim = 0 |>>> inicio <br />0 <br />>>> fim <br />0
-|capitulo, local = "PyLadies Floripa", "Florianópolis"|>>> capitulo <br />'PyLadies Floripa' <br />>>> local <br />'Florianópolis'
+|>>> a = 10 |>>> a <br/>10
+|>>> a = 10 <br />>>> a = "PyLadies" |>>> a <br />'PyLadies'
+|>>> inicio = fim = 0 |>>> inicio <br />0 <br />>>> fim <br />0
+|>>> capitulo, local = "PyLadies Floripa", "Florianópolis"|>>> capitulo <br />'PyLadies Floripa' <br />>>> local <br />'Florianópolis'
 
 {% include "../templates/lista_exercicios.md" %}
