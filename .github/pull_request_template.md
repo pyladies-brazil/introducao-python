@@ -12,6 +12,7 @@ Antes de enviar o Pull Request, faça as seguintes confirmações
 - [ ] O PR foi testado localmente
 - [ ] (se aplicável) Nenhum link está quebrado
 - [ ] (se aplicável) Nenhuma imagem está quebrada
+- [ ] (se aplicável) Todas as tarefas listadas na issue de referência foram feitas e marcadas como completadas na issue?
 
 **Contexto adicional**
 Adicione aqui qualquer informação que você considera importante ou que as
