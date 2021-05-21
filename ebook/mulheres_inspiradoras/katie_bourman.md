@@ -1,6 +1,9 @@
 # Katie Bouman
 
-![image](../assets/katie_bouman.png)
+<center>
+<img src="https://introducao-a-python-pyladies-brasil.netlify.app/assets/katie_bouman.png" style="max-width:300px;">
+</center>
+<br>
 
 Katie Bouman e o time que ela liderava conseguiram pela primeira vez reconstituir uma foto de um buraco negro em 2019 a partir de algoritmos utilizando Python!
 
