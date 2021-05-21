@@ -1,6 +1,9 @@
 # Fernanda Wanderley
 
-![image](../assets/fernanda_wanderley.jpg)
+<center>
+<img src="https://introducao-a-python-pyladies-brasil.netlify.app/assets/fernanda_wanderley.jpg" style="max-width:300px;">
+</center>
+<br>
 
 Doutora em Inteligência Computacional, interessada em aplicações de aprendizado de máquina em problemas biomédicos.
 

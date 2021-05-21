@@ -26,7 +26,7 @@
 
 ## Capítulo 2
 
-- [Mulher inspiradora: Katie Bourman](mulheres_inspiradoras/katie_bourman.md)
+- [Mulher inspiradora: Katie Bouman](mulheres_inspiradoras/katie_bouman.md)
 - [Strings](capitulo_2/strings.md)
 - [Operadores lógicos](capitulo_2/operadores_logicos.md)
 - [Estruturas lógicas e condicionais](capitulo_2/estruturas_logicas_e_condicionais.md)
