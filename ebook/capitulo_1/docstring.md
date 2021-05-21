@@ -4,7 +4,7 @@ Usada para documentar o código, deve vir logo após a definição de uma classe
 
 **Sintaxe:**
 
-```
+```python
 '''
 <comentário com várias linhas>
 '''

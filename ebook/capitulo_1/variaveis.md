@@ -3,8 +3,8 @@
 De forma simplificada, variável é um nome que associamos a um valor ou expressão (informação).
 
 **Sintaxe:** 
-```
-nome_da_variavel = conteudo
+```python
+# nome_da_variavel = conteudo
 doce = 'brigadeiro'
 ```
 
@@ -12,7 +12,7 @@ doce = 'brigadeiro'
 
 - usar **algarismos, letras ou \_**
 - **nunca** começar com um algarismo
-- **não usar palavras reservadas** do Python, como if, while, etc.
+- **não usar palavras reservadas** do Python, como `if`, `while`, etc.
   
 ## Declaração e atribuição
 
@@ -24,9 +24,9 @@ Por ser uma linguagem dinâmica, as variáveis **não são associadas a tipos de
 
 |Exemplo de entrada |Exemplo de saída
 |--|--
-|a = 10 |>>> a <br/>10
-|a = 10 <br />a = "PyLadies" |>>> a <br />'PyLadies'
-|inicio = fim = 0 |>>> inicio <br />0 <br />>>> fim <br />0
-|capitulo, local = "PyLadies Floripa", "Florianópolis"|>>> capitulo <br />'PyLadies Floripa' <br />>>> local <br />'Florianópolis'
+|>>> a = 10 |>>> a <br/>10
+|>>> a = 10 <br />>>> a = "PyLadies" |>>> a <br />'PyLadies'
+|>>> inicio = fim = 0 |>>> inicio <br />0 <br />>>> fim <br />0
+|>>> capitulo, local = "PyLadies Floripa", "Florianópolis"|>>> capitulo <br />'PyLadies Floripa' <br />>>> local <br />'Florianópolis'
 
 {% include "../templates/lista_exercicios.md" %}
