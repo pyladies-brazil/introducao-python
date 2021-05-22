@@ -11,12 +11,12 @@
 - [PEP](capitulo_1/pep.md)
 - [Variáveis](capitulo_1/variaveis.md)
 - [Tipos básicos de dados](capitulo_1/tipos_de_dados.md)
-- Operadores
+- [Operadores](capitulo_1/operadores.md)
   - [Operadores aritméticos](capitulo_1/operadores_aritmeticos.md)
   - [Operadores relacionais](capitulo_1/operadores_relacionais.md)
 - [Incremento, decremento e demais operações](capitulo_1/incremento_e_decremento.md)
 - [Identação](capitulo_1/identacao.md)
-- Entrada e saída de dados
+- [Entrada e saída de dados](capitulo_1/entrada_e_saida.md)
   - [Entrada](capitulo_1/entrada.md)
   - [Saída](capitulo_1/saida.md)
 - [Comentário](capitulo_1/comentario.md)
