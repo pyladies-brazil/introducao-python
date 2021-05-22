@@ -11,7 +11,7 @@
 - [PEP](capitulo_1/pep.md)
 - [Variáveis](capitulo_1/variaveis.md)
 - [Tipos básicos de dados](capitulo_1/tipos_de_dados.md)
-- Operadores
+- [Operadores](capitulo_1/operadores.md)
   - [Operadores aritméticos](capitulo_1/operadores_aritmeticos.md)
   - [Operadores relacionais](capitulo_1/operadores_relacionais.md)
 - [Incremento, decremento e demais operações](capitulo_1/incremento_e_decremento.md)
