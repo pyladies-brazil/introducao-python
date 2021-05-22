@@ -16,7 +16,7 @@
   - [Operadores relacionais](capitulo_1/operadores_relacionais.md)
 - [Incremento, decremento e demais operações](capitulo_1/incremento_e_decremento.md)
 - [Identação](capitulo_1/identacao.md)
-- Entrada e saída de dados
+- [Entrada e saída de dados](capitulo_1/entrada_e_saida.md)
   - [Entrada](capitulo_1/entrada.md)
   - [Saída](capitulo_1/saida.md)
 - [Comentário](capitulo_1/comentario.md)
