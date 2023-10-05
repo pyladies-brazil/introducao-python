@@ -1,6 +1,6 @@
-# Introdução a Python: para mulheres que sabem programar em outra linguagem
+# Python: uma cobra que não morde mas ensina
 
-###### tags: `Python 3` `Sintax` `Básico`
+###### tags: `python-3` `beginner-friendly` `pyladies-brasil` `LGBTQIA+` `workshop` `lgbt` 
 
 Olá, PyLady! Seja bem-vinda ao repositório do grupo de estudo "Introdução a Python", aqui você encontrará todos os materiais produzidos para incentivar o aprendizado de Python (ebook, slides, série de vídeos e exercícios). Isso tudo foi organizado por muitas mentes e mãos do PyLadies Brasil :heart:
 
